@@ -10,7 +10,17 @@ module.exports = {
     extend: {
       backgroundImage: theme => ({
         'home': "url('/static/background.jpg')"
-      })
+      }),
+      fontSize: {
+        '7xl': '5rem',
+        '8xl': '6rem',
+        '9xl': '7rem'
+      },
+      screens: {
+        '1k': '1920px',
+        '2k': '2048px',
+        '4k': '3840px'
+      }
     }
   },
   variants: {},
