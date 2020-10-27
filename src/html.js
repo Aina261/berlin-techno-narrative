@@ -54,6 +54,7 @@ export default function HTML(props) {
         <meta property="og:image:height" content="600" />
         <meta property="og:image:alt" content="Berlin Techno Narrative logo" />
         <meta property="og:site_name" content="Berlin Techno Narrative" />
+        <title>Berlin Techno Narrative</title>
 
         {props.headComponents}
       </head>
