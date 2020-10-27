@@ -12,8 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f880b32-394c-4f3b-9f3e-63f42949650a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/html.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,21 @@
       <recent name="$PROJECT_DIR$/src/Component" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +85,7 @@
       <workItem from="1603717324440" duration="42000" />
       <workItem from="1603717381301" duration="767000" />
       <workItem from="1603780484133" duration="20208000" />
-      <workItem from="1603811234459" duration="2854000" />
+      <workItem from="1603811234459" duration="5573000" />
     </task>
     <servers />
   </component>
