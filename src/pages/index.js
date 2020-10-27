@@ -9,10 +9,12 @@ import { Deutsch } from "../Component/Deutsch"
 import { Footer } from "../Component/Footer.component"
 
 export default function Home() {
-  const [scrolling, setScrolling] = useState(false)
-  const [scrollTop, setScrollTop] = useState(0)
+  const [scrolling, setScrolling] = useState(false);
+  const [scrollTop, setScrollTop] = useState(0);
+  const [innerHeight, setInnerHeight] = useState(0);
 
   useEffect(() => {
+      setInnerHeight(window.innerHeight);
     const onScroll = e => {
       setScrollTop(e.target.documentElement.scrollTop)
       setScrolling(e.target.documentElement.scrollTop > scrollTop)
@@ -24,7 +26,7 @@ export default function Home() {
 
   return (
     <>
-      {scrollTop > window.innerHeight / 2 ? <UpButton /> : null}
+      {scrollTop > innerHeight / 2 ? <UpButton /> : null}
       <Header />
       <SocialNetwork />
       <French />

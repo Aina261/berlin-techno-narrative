@@ -11,17 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f880b32-394c-4f3b-9f3e-63f42949650a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/Deutsch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Deutsch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/English.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/English.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/Footer.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Footer.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/French.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/French.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/Header.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Header.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/Mailto.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Mailto.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/Social-Network.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Social-Network.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/UpButton.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/UpButton.component.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
