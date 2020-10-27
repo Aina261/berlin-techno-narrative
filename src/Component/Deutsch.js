@@ -47,7 +47,8 @@ export const Deutsch = () => {
           <img src={bunker} alt="" />
           <figcaption className={"italic text-sm"}>
             <span className={"font-bold"}>Der Bunker</span> ist ein
-            Luftschutzbunker, der 1992 zu einem Techno-Ha
+            Luftschutzbunker, der in den 90er Jahren zu einem
+            Gabber-Club wurde.
           </figcaption>
         </figure>
         <div className="presentation mt-16">

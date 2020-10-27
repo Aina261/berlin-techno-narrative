@@ -43,7 +43,7 @@ export const English = () => {
         <figure>
           <img src={ewerk} alt="" />
           <figcaption className={"italic text-sm"}>
-            <span className={"font-bold"}>E-work</span> was a techno music club
+            <span className={"font-bold"}>E-werk</span> was a techno music club
             in Berlin
           </figcaption>
         </figure>
