@@ -13,8 +13,7 @@
     <list default="true" id="4f880b32-394c-4f3b-9f3e-63f42949650a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/Deutsch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Deutsch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Component/English.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/English.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1603717324440" duration="42000" />
       <workItem from="1603717381301" duration="767000" />
       <workItem from="1603780484133" duration="20208000" />
-      <workItem from="1603811234459" duration="1797000" />
+      <workItem from="1603811234459" duration="2854000" />
     </task>
     <servers />
   </component>
