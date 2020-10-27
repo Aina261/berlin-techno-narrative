@@ -9,20 +9,20 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-        'home': "url('/static/background.jpg')"
+        home: "url('/static/background.jpg')",
       }),
       fontSize: {
-        '7xl': '5rem',
-        '8xl': '6rem',
-        '9xl': '7rem'
+        "7xl": "5rem",
+        "8xl": "6rem",
+        "9xl": "7rem",
       },
       screens: {
-        '1k': '1920px',
-        '2k': '2048px',
-        '4k': '3840px'
-      }
-    }
+        "1k": "1920px",
+        "2k": "2048px",
+        "4k": "3840px",
+      },
+    },
   },
   variants: {},
-  plugins: []
+  plugins: [],
 }

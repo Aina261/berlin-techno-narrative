@@ -11,16 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f880b32-394c-4f3b-9f3e-63f42949650a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Deutsch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Deutsch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/English.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/English.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/French.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/French.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Deutsch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Deutsch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/English.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/English.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Footer.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Footer.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/French.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/French.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Header.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Header.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Mailto.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Mailto.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Social-Network.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Social-Network.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/UpButton.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/UpButton.component.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
       <workItem from="1603329874431" duration="635000" />
       <workItem from="1603717324440" duration="42000" />
       <workItem from="1603717381301" duration="767000" />
-      <workItem from="1603780484133" duration="19906000" />
+      <workItem from="1603780484133" duration="20208000" />
     </task>
     <servers />
   </component>
