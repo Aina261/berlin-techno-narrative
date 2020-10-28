@@ -46,6 +46,56 @@ h1 {
     }
 }
 
+@media all and (min-width: 1024px) {
+    h1 {
+        font-size: 4rem;
+    }
+
+    .logo {
+        width: 350px;
+    }
+}
+
+@media all and (min-width: 1600px) {
+    h1 {
+        font-size: 5rem;
+    }
+
+    .logo {
+        width: 400px;
+    }
+}
+
+@media all and (min-width: 1925px) {
+    h1 {
+        font-size: 6rem;
+    }
+
+    .logo {
+        width: 450px;
+    }
+}
+
+@media all and (min-width: 2700px) {
+    h1 {
+        font-size: 7rem;
+    }
+
+    .logo {
+        width: 500px;
+    }
+}
+
+@media all and (min-width: 3000px) {
+    h1 {
+        font-size: 8rem;
+    }
+
+    .logo {
+        width: 550px;
+    }
+}
+
 .arrow-down {
     width: 20px;
     height: 20px;
