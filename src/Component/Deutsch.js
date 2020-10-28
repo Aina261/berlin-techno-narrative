@@ -44,7 +44,7 @@ export const Deutsch = () => {
           </p>
         </div>
         <figure>
-          <img src={bunker} alt="" />
+          <img src={bunker} alt="" className={'w-full'} />
           <figcaption className={"italic text-sm"}>
             <span className={"font-bold"}>Der Bunker</span> ist ein
             Luftschutzbunker, der in den 90er Jahren zu einem

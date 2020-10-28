@@ -41,7 +41,7 @@ export const English = () => {
           </p>
         </div>
         <figure>
-          <img src={ewerk} alt="" />
+          <img src={ewerk} alt="" className={'w-full'} />
           <figcaption className={"italic text-sm"}>
             <span className={"font-bold"}>E-werk</span> was a techno music club
             in Berlin

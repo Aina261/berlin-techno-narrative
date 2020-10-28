@@ -42,7 +42,7 @@ export const French = () => {
           </p>
         </div>
         <figure>
-          <img src={tresor} alt="" />
+          <img src={tresor} alt="" className={'w-full'} />
           <figcaption className={"italic text-sm"}>
             <span className={"font-bold"}>Tresor</span> est une discothèque et
             une maison de disques de techno underground à berlin
